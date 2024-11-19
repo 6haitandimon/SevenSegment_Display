@@ -1,0 +1,1 @@
+//// Created by Dzmitryj Bareika on 19.11.24.//#ifndef SEVENSEGMEN_DISPLAY_BASETIMER_H#define SEVENSEGMEN_DISPLAY_BASETIMER_H#include "tim.h"class BaseTimer{};#endif // SEVENSEGMEN_DISPLAY_BASETIMER_H
